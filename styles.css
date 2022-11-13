@@ -188,3 +188,7 @@ hr {
     width: 600px;
     height: 320px;
 }
+
+.project-box-line{
+    border-bottom: 2px double var(--dark-blue);
+}
